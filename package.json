@@ -1,0 +1,31 @@
+{
+  "name": "connect-stripe",
+  "version": "0.0.1",
+  "description": "Stripe integration for connect-platform",
+  "main": ".",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/must/connect-stripe"
+  },
+  "keywords": [
+    "connect-platform",
+    "low-code",
+    "stripe",
+    "CONNECT",
+    "no-code"
+  ],
+  "author": "Mustapha Ben Chaaben <mustapha3892@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/must/connect-stripe/issues"
+  },
+  "homepage": "https://github.com/must/connect-stripe#readme",
+  "dependencies": {
+    "connect-platform": "^0.2.4",
+    "stripe": "^6.8.0"
+  }
+}
