@@ -1,4 +1,3 @@
-const path = require('path');
 const nodeStripe = require('stripe');
 
 const platform = require('connect-platform');
