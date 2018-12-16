@@ -25,7 +25,12 @@
   },
   "homepage": "https://github.com/must/connect-stripe#readme",
   "dependencies": {
-    "connect-platform": "^0.2.5",
     "stripe": "^6.12.1"
+  },
+  "peerDependencies": {
+    "connect-platform": "*"
+  },
+  "devDependencies": {
+    "connect-platform": "^0.2.7"
   }
 }
